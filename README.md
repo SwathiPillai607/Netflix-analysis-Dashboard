@@ -1,6 +1,6 @@
 # 🎬 Netflix Data Analysis Dashboard
 
-!![Netflix Dashboard](./dashboard_preview.png)
+!![Netflix Dashboard]([./dashboard_preview.png](https://github.com/SwathiPillai607/Netflix-analysis-Dashboard/blob/main/Screenshot%202026-02-08%20211812.png))
 
 ## 📌 Project Overview
 This project analyzes the Netflix dataset to identify content trends and business insights.
