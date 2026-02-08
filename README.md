@@ -1,6 +1,6 @@
 # 🎬 Netflix Data Analysis Dashboard
 
-![Dashboard Screenshot](link-to-your-image-here.png)
+!![Netflix Dashboard](./dashboard_preview.png)
 
 ## 📌 Project Overview
 This project analyzes the Netflix dataset to identify content trends and business insights.
